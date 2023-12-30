@@ -2,7 +2,7 @@ Oii! Eu sou a Geovanna Navarro 😊
 
 <div>
   <a href="https://github.com/genavarro">
-  <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=genavarro&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&count_private=false" />
+  <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=genavarro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&count_private=false" />
   <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genavarro&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
