@@ -18,5 +18,5 @@ Oii! Eu sou a Geovanna Navarro 😊
   <div>
     <a href="[https://bit.ly/WhatssGuiBorges](https://wa.me/5511964372734)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target=""></a>
     <a href="https://www.instagram.com/gnavarr_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=""></a>
-    <a href="www.linkedin.com/in/geovanna-navarro-214371249" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=""></a>
+    <a href="https://www.linkedin.com/in/geovanna-navarro-214371249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=""></a>
   </div>
